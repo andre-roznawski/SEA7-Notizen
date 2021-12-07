@@ -5,3 +5,5 @@ GIT > Versionskontrollsystem
 git status > Sicht auf die Datei
 
 git add > wird von git berücksichtigt
+
+Git commit > schließt Sicherungsvorgang ab
