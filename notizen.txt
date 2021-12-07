@@ -3,3 +3,5 @@ das sind die 1. Notizen für Github
 GIT > Versionskontrollsystem
 
 git status > Sicht auf die Datei
+
+git add > wird von git berücksichtigt
