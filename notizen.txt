@@ -8,4 +8,6 @@ git add > wird von git berücksichtigt
 
 Git commit > schließt Sicherungsvorgang ab
 
-Erste Änderung in Branch2 auf Konsole2 auf Konsole2 auf Konsole2 auf Konsole2 auf Konsole2 auf Konsole2 auf Konsole2 auf Konsole2 auf Konsole2 auf Konsole2 auf Konsole2 auf Konsole2 auf 
+Erste Änderung in Branch2 auf Konsole
+
+Erste Änderung in Branch3 auf Konsole 
